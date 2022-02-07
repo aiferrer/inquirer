@@ -1,0 +1,23 @@
+{
+  "name": "app-lista-tareas",
+  "version": "1.0.0",
+  "description": "app-lista-tareas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiferrer/app-lista-tareas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiferrer/app-lista-tareas/issues"
+  },
+  "homepage": "https://github.com/aiferrer/app-lista-tareas#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0"
+  }
+}
